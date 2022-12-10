@@ -1,2 +1,2 @@
-# Machine_ball
+# The Machine Ball
 This is a football analytics repository!
